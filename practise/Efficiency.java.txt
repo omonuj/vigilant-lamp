@@ -1,0 +1,29 @@
+// Efficiency.java
+// Efficiency program that displays the cost trip.
+import java.util.Scanner;// program uses class scanner
+public class Efficiency{
+
+	public static void main(String[] args){
+	// create a Scanner to obtain input from the command window
+	Scanner	input = new Scanner(System.in);
+ 
+	System.out.print("Enter driving distance: "); // prompt
+	double distanceDriven = input.nextDouble(); 
+	// read first input from user
+		
+	System.out.printf("Enter miles per gallon: "); // prompt
+	double milesPerGallon = input.nextDouble(); 
+	// read second input from user
+
+	System.out.printf("Enter price per gallon: "); //prompt
+	double pricePerGallon = input.nextDouble(); 
+	// read third input from user
+
+	double d = distanceDriven; // declared variable
+	double m = milesPerGallon; // declared variable
+	double p = pricePerGallon; // declared variable
+	
+	double cost = (d / m) * p; // cost function
+	System.out.print(cost); // display cost
+	} // end method
+} //end class Efficiency
