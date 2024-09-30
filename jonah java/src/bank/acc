@@ -1,0 +1,32 @@
+account class:
+
+firstName
+secondName
+gender
+age
+defaultPin
+generateAccountNumber
+
+
+
+
+Bank class:
+createPin
+deposit
+checkBalance
+withdraw
+transfer
+changePin
+loanApplication(1.calculateInterest
+		2. repaymentSchedule).
+investmentServices
+interestCalculationOnSavings
+securityFeatures(1. bund
+		2. shares)
+
+
+
+
+
+
+

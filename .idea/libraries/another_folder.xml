@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="another folder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTest/Calculator/deitelcodingExercises/GasMileageCalculator/New folder/another folder/opentest4j-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTest/Calculator/deitelcodingExercises/GasMileageCalculator/New folder/another folder/junit-platform-commons-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTest/Calculator/deitelcodingExercises/GasMileageCalculator/New folder/another folder/junit-platform-console-standalone-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTest/Calculator/deitelcodingExercises/GasMileageCalculator/New folder/another folder/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTest/Calculator/deitelcodingExercises/GasMileageCalculator/New folder/another folder/junit-jupiter-api-5.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
